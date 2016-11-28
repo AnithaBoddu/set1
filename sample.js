@@ -9,9 +9,9 @@
 // } 
 
 // comments here
-function yearOfBirth(age){
+// function yearOfBirth(age){
   
-}
+// }
 
 
 //Exercise-3
